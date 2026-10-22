@@ -1,5 +1,5 @@
 def calculate_total_events(events):
-    return sum(events)
+    return max(events)
 
 
 def validate_events(events):
